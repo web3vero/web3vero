@@ -1,5 +1,5 @@
 # MIKE FOLEY
-### Principal AI Strategist & Web3 Systems Architect • Fractional CTO
+### Agentic AI Infrastructure Architect • Principal AI Strategist & Web3 Systems Architect • Fractional CTO
 **Vero Beach, FL** • [web3vero.com](https://web3vero.com) • [LinkedIn](https://linkedin.com/in/foleymon) • `mike@web3vero.com`
 
 ```
@@ -12,9 +12,19 @@
 ---
 
 ## ⚡ EXECUTIVE OVERVIEW
-High-leverage **Systems Architect, Sovereign Infrastructure Engineer, and Fractional CTO** with 30+ years of technical leadership spanning artificial intelligence, decentralized Web3 protocols, quant engine automation, and digital asset orchestration. 
+High-leverage **Systems Architect, Sovereign Infrastructure Engineer, and Fractional CTO** with 30+ years of technical leadership spanning artificial intelligence, decentralized Web3 protocols, quant engine automation, and digital asset orchestration.
 
-I help **Seed, Series A, and Venture Studio portfolios** eliminate predatory cloud AI margins, protect proprietary corporate IP under Zero-Trust protocols, and deploy production-grade multi-agent swarms—delivering Tier-1 executive technology leadership without the $400k+ full-time executive overhead.
+I help **Seed, Series A, and Venture Studio portfolios** eliminate predatory cloud AI margins, protect proprietary corporate IP under Zero-Trust protocols, and deploy production-grade multi-agent swarms, delivering Tier-1 executive technology leadership without the $400k+ full-time executive overhead.
+
+---
+
+## 🔨 CURRENTLY BUILDING
+
+- **Buzz, self-hosted multi-agent communication relay:** four agents on Block's open-source Buzz, Nostr-native, with verified agent-to-agent handoffs in production. Running since Block's public launch in July 2026.
+- **Hermes agent gateway:** Hermes AI wired into Buzz with @mention routing, 5-second polling, and tool execution. Running since its February 2026 public launch.
+- **NemoClaw:** multi-agent command layer on NVIDIA NeMo and NIM, orchestrating agent swarms across local and cloud models.
+- **VeroTides:** Vero Beach coastal dashboard, tides, fishing windows, and bridge status, live at [verotides.com](https://verotides.com).
+- **AI Concierge Services:** hands-on AI for Vero Beach businesses, AI front desk, workflow automation, and staff training. Details at [web3vero.com](https://web3vero.com).
 
 ---
 
@@ -72,7 +82,7 @@ Deterministic hardware compute allocation on dedicated AMD Ryzen 9 5900 bare-met
 
 ```
 LANGUAGES & RUNTIMES  : Python 3.12+, TypeScript, JavaScript, Solidity, Rust, SQL, Bash
-AUTONOMOUS AI         : Multi-Agent Swarms, LiteLLM, Ollama, vLLM, Honcho v3, Prompt Guardrails
+AUTONOMOUS AI         : Multi-Agent Swarms, Buzz (Nostr Relay), Hermes Agent Gateway, NemoClaw, LiteLLM, Ollama, vLLM, Honcho v3, Prompt Guardrails
 WEB3 & CRYPTO         : EVM, Solidity, Solana, Smart Contract Audits, Tokenomics, dApps
 FRONTEND & SHADERS    : Next.js 16 (Turbopack), React 19, Tailwind CSS, WebGL, GLSL Shaders
 INFRASTRUCTURE & OPS  : Linux, Docker, SQLite, Redis, FastAPI/Uvicorn, Proton Pass CLI
