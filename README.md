@@ -30,7 +30,7 @@ I help **Seed, Series A, and Venture Studio portfolios** eliminate predatory clo
 
 ## 🏛️ CORE ARCHITECTURAL PILLARS
 
-### 1. Mission Control — 10-Agent Autonomous Control Plane
+### 1. Mission Control: 10-Agent Autonomous Control Plane
 Operator and architect of **Mission Control**, a 24/7 autonomous multi-agent task plane governed by deterministic ARB charters, TTL timeouts, and fail-closed checkpoints:
 - **Nova Sparks (`nova-sparks`):** Lead Commander & Strategic Orchestrator.
 - **Hermes (`hermes`):** Chief of Staff AI & Talon VPS Operations Manager.
@@ -43,7 +43,7 @@ Operator and architect of **Mission Control**, a 24/7 autonomous multi-agent tas
 - **Sage (`sage`):** Growth Engine & Social Content Strategist.
 - **Spectra (`spectra`):** Video Pipeline & Automated Media Engine.
 
-### 2. Project Blackwing — Bare-Metal Silicon Pinning
+### 2. Project Blackwing: Bare-Metal Silicon Pinning
 Deterministic hardware compute allocation on dedicated AMD Ryzen 9 5900 bare-metal silicon:
 - **Silo 1 (Threads 0–11):** Quant telemetry, Polymarket MCP inference pipelines, low-latency DEX liquidity audits (`<14ms` execution).
 - **Silo 2 (Threads 12–23):** OSINT / DFIR threat intelligence, air-gapped node defense.
